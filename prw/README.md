@@ -1,0 +1,85 @@
+<div align="center">
+
+### primal winter
+### quilt loader
+### 1.19.2
+
+</div>
+
+# mods
+- quilt
+  - https://modrinth.com/datapack/beneath-the-snow/version/0.3.1
+  - https://modrinth.com/mod/appleskin/version/fabric-mc1.19-2.4.1
+  - https://modrinth.com/mod/architectury-api/version/6.5.77+fabric
+  - https://modrinth.com/mod/better-beds/version/1.2.0
+  - https://modrinth.com/mod/blanket/version/1.1.2
+  - https://modrinth.com/mod/collective/version/1.19.2-6.53-forge+fabric
+  - https://modrinth.com/mod/ct-overhaul-village/version/3.1.8
+  - https://modrinth.com/mod/dashloader/version/4.1.3+1.19
+  - https://modrinth.com/mod/debugify/version/2.8.0
+  - https://modrinth.com/mod/double-doors/version/1.19.2-4.5-forge+fabric
+  - https://modrinth.com/mod/dynamic-fps/version/v2.2.0
+  - https://modrinth.com/mod/ebe/version/0.7.2+1.19.2
+  - https://modrinth.com/mod/fastanim/version/1.5.7
+  - https://modrinth.com/mod/fastload/version/3.3.1
+  - https://modrinth.com/mod/ferrite-core/version/5.0.3-fabric
+  - https://modrinth.com/mod/immediatelyfast/version/1.1.10+1.19
+  - https://modrinth.com/mod/indium/version/1.0.9+mc1.19.2
+  - https://modrinth.com/mod/interactic/version/0.1.11+1.19
+  - https://modrinth.com/mod/invisible-frames-mod/version/1.0.0+1.19
+  - https://modrinth.com/mod/iris/version/1.6.0+1.19.2
+  - https://modrinth.com/mod/lambdynamiclights/version/2.2.0+1.19.2
+  - https://modrinth.com/mod/memoryleakfix/version/v1.0.0
+  - https://modrinth.com/mod/modmenu/version/4.2.0-beta.2
+  - https://modrinth.com/mod/morechathistory/version/mc1.19.1-1.1.1
+  - https://modrinth.com/mod/morecullingextra/version/v1.1-1.19.2
+  - https://modrinth.com/mod/moreculling/version/v0.17.0-1.19
+  - https://modrinth.com/mod/no-telemetry/version/1.7.0
+  - https://modrinth.com/mod/ok-zoomer/version/5.0.0-beta.9+1.19
+  - https://modrinth.com/mod/qsl/version/4.0.0-beta.30+0.76.0-1.19.2
+  - https://modrinth.com/mod/quilt-loading-screen/version/4.0.0+1.19
+  - https://modrinth.com/mod/simple-discord-rpc/version/1.19-3.2.2
+  - https://modrinth.com/mod/smoothboot-fabric/version/1.19-1.7.1
+  - https://modrinth.com/mod/sodium/version/mc1.19.2-0.4.4
+  - https://modrinth.com/mod/trinkets/version/3.4.2
+- fabric
+  - https://modrinth.com/mod/3dskinlayers/version/1.5.2-fabric-1.19
+  - https://modrinth.com/mod/antighost/version/1.19.1-fabric0.58.5-1.1.5
+  - https://modrinth.com/mod/antighost/version/1.19.1-fabric0.58.5-1.1.5
+  - https://modrinth.com/mod/artifacts/version/7.1.1+fabric
+  - https://modrinth.com/mod/better-stats/version/v2.4+fabric-1.19.2
+  - https://modrinth.com/mod/carpet-fixes/version/v1.12.2
+  - https://modrinth.com/mod/carpet/version/1.4.84
+  - https://modrinth.com/mod/cloth-config/version/8.2.88+fabric
+  - https://modrinth.com/mod/continuity/version/2.0.2+1.19
+  - https://modrinth.com/mod/culinary-construct/version/5.0.0+1.19.2
+  - https://modrinth.com/mod/eating-animation/version/UulaTOZ0
+  - https://modrinth.com/mod/enhanced-attack-indicator/version/v1.0.3+1.19
+  - https://modrinth.com/mod/entityculling/version/1.6.1-mc1.19.2
+  - https://modrinth.com/mod/fallingleaves/version/1.13.0
+  - https://modrinth.com/mod/first-person-model/version/13BJdNBy
+  - https://modrinth.com/mod/kiwi/version/8.3.3
+  - https://modrinth.com/mod/krypton/version/0.2.1
+  - https://modrinth.com/mod/lazydfu/version/0.1.3
+  - https://modrinth.com/mod/lithium/version/mc1.19.2-0.11.1
+  - https://modrinth.com/mod/mine11lib/version/0.1.5+1.19.2
+  - https://modrinth.com/mod/not-enough-animations/version/KZmMUPjz
+  - https://modrinth.com/mod/paradise-lost/version/2.1.0
+  - https://modrinth.com/mod/reeses-sodium-options/version/mc1.19.2-1.4.9
+  - https://modrinth.com/mod/rei/version/9.1.595+fabric
+  - https://modrinth.com/mod/snow-under-trees-remastered/version/1.0.0+1.19.2
+  - https://modrinth.com/mod/sodium-extra/version/mc1.19.2-0.4.16
+  - https://modrinth.com/mod/starlight/version/1.1.1+1.19
+  - https://modrinth.com/mod/true-darkness/version/fabric-mc119-2.0.101
+  - https://modrinth.com/mod/yungs-api/version/1.19.2-Fabric-3.8.9
+  - https://modrinth.com/mod/yungs-better-desert-temples/version/1.19.2-Fabric-2.2.2
+  - https://modrinth.com/mod/yungs-better-dungeons/version/1.19.2-Fabric-3.2.1
+  - https://modrinth.com/mod/yungs-better-mineshafts/version/1.19.2-Fabric-3.2.0
+  - https://modrinth.com/mod/yungs-better-nether-fortresses/version/1.19.2-Fabric-1.0.5
+  - https://modrinth.com/mod/yungs-better-ocean-monuments/version/1.19.2-Fabric-2.1.0
+  - https://modrinth.com/mod/yungs-better-strongholds/version/1.19.2-Fabric-3.2.0
+  - https://modrinth.com/mod/yungs-better-witch-huts/version/1.19.2-Fabric-2.1.0
+  - https://modrinth.com/mod/yungs-extras/version/1.19.2-Fabric-3.1.0
+  - https://www.curseforge.com/minecraft/mc-mods/primal-winter/files/all?filter-game-version=2020709689%3A9366
+  - https://www.curseforge.com/minecraft/mc-mods/regrowth/files/all?filter-game-version=2020709689%3A9366
+  - https://www.curseforge.com/minecraft/mc-mods/stoneholm
