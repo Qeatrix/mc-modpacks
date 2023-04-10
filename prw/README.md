@@ -69,6 +69,7 @@
   - [x] https://modrinth.com/mod/forge-config-api-port/version/4.2.11
   - [x] https://modrinth.com/mod/open-parties-and-claims/version/fabric-1.19.2-0.17.2
   - [x] https://modrinth.com/mod/visual-overhaul/version/4.1.1
+  - [x] https://modrinth.com/mod/styledplayerlist/version/2.2.2+1.19.1
 - fabric
   - [x] https://modrinth.com/mod/3dskinlayers/version/1.5.2-fabric-1.19
   - [x] https://modrinth.com/mod/ambientsounds/version/5.2.13
@@ -122,3 +123,5 @@
   - [x] https://modrinth.com/mod/subterrestrial/version/Lvg0q3ul
   - [x] https://modrinth.com/mod/bobby/version/4.0.1
   - [x] https://modrinth.com/mod/exordium/version/1.0.2-1.19.2
+  - [x] https://modrinth.com/mod/vmp-fabric/version/0.2.0+beta.7.29+1.19.2
+  - [x] https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric/files/4072397
