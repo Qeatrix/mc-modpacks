@@ -146,7 +146,6 @@
   - [x] https://modrinth.com/mod/item-model-fix/version/1.0.3+1.19
   - [x] https://modrinth.com/mod/language-reload/version/1.5.6+1.19.2
   - [x] https://modrinth.com/mod/inventory-sorting/version/1.8.10-1.19
-  - [x] https://modrinth.com/mod/illegal-stack-fixer/version/4.0.0
   - [x] https://www.curseforge.com/minecraft/mc-mods/carpet-extra/files/4066596
   - [x] https://modrinth.com/mod/carpet-tis-addition/version/mc1.19.2-v1.44.0-bp.2
   - [x] https://modrinth.com/mod/keepheadnames/version/1.5.1-fabric-1.18
