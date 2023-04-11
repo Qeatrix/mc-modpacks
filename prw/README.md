@@ -70,6 +70,24 @@
   - [x] https://modrinth.com/mod/open-parties-and-claims/version/fabric-1.19.2-0.17.2
   - [x] https://modrinth.com/mod/visual-overhaul/version/4.1.1
   - [x] https://modrinth.com/mod/styledplayerlist/version/2.2.2+1.19.1
+  - [x] https://modrinth.com/mod/betterf3/version/4.0.0
+  - [x] https://modrinth.com/mod/detail-armor-bar/version/2.6.2+1.19-fabric
+  - [x] https://modrinth.com/mod/inventory-tabs-updated/version/inventorytabs-0.9.beta-1.19.x
+  - [x] https://modrinth.com/mod/timeoutout/version/1.0.3
+  - [x] https://modrinth.com/mod/wither-cage-fix/version/1.0.16+MC1.19-1.19.4
+  - [x] https://modrinth.com/mod/fabrication/version/3.2.4+1.19
+  - [x] https://modrinth.com/mod/styled-chat/version/2.0.3+1.19.2
+  - [x] https://modrinth.com/mod/alternate-current/version/mc1.19-1.5.0
+  - [x] https://modrinth.com/mod/servercore/version/1.3.3-1.19.2
+  - [x] https://modrinth.com/mod/dimthread/version/1.2.7
+  - [x] https://modrinth.com/mod/golfiv/version/0.6.0
+  - [x] https://modrinth.com/mod/cull-less-leaves/version/1.0.6
+  - [x] https://modrinth.com/mod/cullclouds/version/0.1.0
+  - [x] https://www.curseforge.com/minecraft/mc-mods/satin-api/files/3864173
+  - [x] https://www.curseforge.com/minecraft/mc-mods/effective/files/4092345
+  - [x] https://modrinth.com/mod/auditory/version/0.0.4
+  - [x] https://modrinth.com/mod/blur-fabric/version/2.6.0
+  - [x] https://modrinth.com/mod/easyauth/version/1.19.1-3.0.0-8
 - fabric
   - [x] https://modrinth.com/mod/3dskinlayers/version/1.5.2-fabric-1.19
   - [x] https://modrinth.com/mod/ambientsounds/version/5.2.13
@@ -80,7 +98,6 @@
   - [x] https://modrinth.com/mod/carpet-fixes/version/v1.12.2
   - [x] https://modrinth.com/mod/carpet/version/1.4.84
   - [x] https://modrinth.com/mod/cloth-config/version/8.2.88+fabric
-  - [x] https://modrinth.com/mod/continuity/version/2.0.2+1.19
   - [x] https://modrinth.com/mod/creativecore/version/2.9.3
   - [x] https://modrinth.com/mod/culinary-construct/version/5.0.0+1.19.2
   - [x] https://modrinth.com/mod/dynamiccrosshaircompat/version/3.3+1.19.2
@@ -94,7 +111,7 @@
   - [x] https://modrinth.com/mod/kiwi/version/8.3.3
   - [x] https://modrinth.com/mod/krypton/version/0.2.1
   - [x] https://modrinth.com/mod/lazydfu/version/0.1.3
-  - [x] https://modrinth.com/mod/lithium/version/mc1.19.2-0.11.1
+  - [x] https://modrinth.com/mod/lithium/versioeben/mc1.19.2-0.11.1
   - [x] https://modrinth.com/mod/mine11lib/version/0.1.5+1.19.2
   - [x] https://modrinth.com/mod/not-enough-animations/version/KZmMUPjz
   - [x] https://modrinth.com/mod/reeses-sodium-options/version/mc1.19.2-1.4.9
@@ -125,3 +142,16 @@
   - [x] https://modrinth.com/mod/exordium/version/1.0.2-1.19.2
   - [x] https://modrinth.com/mod/vmp-fabric/version/0.2.0+beta.7.29+1.19.2
   - [x] https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric/files/4072397
+  - [x] https://modrinth.com/mod/raised/version/Fabric-1.19.2-1.2.2
+  - [x] https://modrinth.com/mod/item-model-fix/version/1.0.3+1.19
+  - [x] https://modrinth.com/mod/language-reload/version/1.5.6+1.19.2
+  - [x] https://modrinth.com/mod/inventory-sorting/version/1.8.10-1.19
+  - [x] https://modrinth.com/mod/illegal-stack-fixer/version/4.0.0
+  - [x] https://www.curseforge.com/minecraft/mc-mods/carpet-extra/files/4066596
+  - [x] https://modrinth.com/mod/carpet-tis-addition/version/mc1.19.2-v1.44.0-bp.2
+  - [x] https://modrinth.com/mod/keepheadnames/version/1.5.1-fabric-1.18
+  - [x] https://modrinth.com/mod/server-chat-history/version/1.4.0
+  - [x] https://modrinth.com/mod/immersivecursedness/version/1.4.7
+  - [x] https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric/files/3832027
+  - [x] https://modrinth.com/mod/extrasounds/version/2.3.1+1.19.2-1.19.1
+  - [x] https://modrinth.com/plugin/minimotd/version/2.0.9
