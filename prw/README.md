@@ -11,7 +11,6 @@
   - [x] https://modrinth.com/datapack/beneath-the-snow/version/0.3.1
   - [x] https://modrinth.com/mod/appleskin/version/fabric-mc1.19-2.4.1
   - [x] https://modrinth.com/mod/architectury-api/version/6.5.77+fabric
-  - [x] https://modrinth.com/mod/better-beds/version/1.2.0
   - [x] https://modrinth.com/mod/blanket/version/1.1.2
   - [x] https://modrinth.com/mod/collective/version/1.19.2-6.53-forge+fabric
   - [x] https://modrinth.com/mod/ct-overhaul-village/version/3.1.8
@@ -53,10 +52,8 @@
   - [x] https://modrinth.com/mod/emitrades/version/1.0.2+mc1.19.2
   - [x] https://modrinth.com/mod/emi-loot/version/0.5.0+1.19
   - [x] https://modrinth.com/mod/emiffect/version/0.1.5+mc1.19.2
-  - [x] https://modrinth.com/mod/dcch/version/2.0+1.17
   - [x] https://modrinth.com/mod/midnightlib/version/1.0.0-quilt
   - [x] https://modrinth.com/mod/repurposed-structures-fabric/version/6.3.21+1.19.2+quilt
-  - [x] https://modrinth.com/mod/universal-graves/version/2.1.3+1.19.2
   - [x] https://modrinth.com/mod/customskinloader/version/14.15.2-Fabric
   - [x] https://modrinth.com/mod/bedrockify/version/1.5.1+mc1.19.1-2
   - [x] https://modrinth.com/mod/make_bubbles_pop/version/0.1.0
@@ -70,7 +67,6 @@
   - [x] https://modrinth.com/mod/open-parties-and-claims/version/fabric-1.19.2-0.17.2
   - [x] https://modrinth.com/mod/visual-overhaul/version/4.1.1
   - [x] https://modrinth.com/mod/styledplayerlist/version/2.2.2+1.19.1
-  - [x] https://modrinth.com/mod/betterf3/version/4.0.0
   - [x] https://modrinth.com/mod/detail-armor-bar/version/2.6.2+1.19-fabric
   - [x] https://modrinth.com/mod/inventory-tabs-updated/version/inventorytabs-0.9.beta-1.19.x
   - [x] https://modrinth.com/mod/timeoutout/version/1.0.3
@@ -88,6 +84,7 @@
   - [x] https://modrinth.com/mod/auditory/version/0.0.4
   - [x] https://modrinth.com/mod/blur-fabric/version/2.6.0
   - [x] https://modrinth.com/mod/easyauth/version/1.19.1-3.0.0-8
+  - [x] https://modrinth.com/datapack/loyal-items/version/1.0.0+mod
 - fabric
   - [x] https://modrinth.com/mod/3dskinlayers/version/1.5.2-fabric-1.19
   - [x] https://modrinth.com/mod/ambientsounds/version/5.2.13
@@ -143,14 +140,33 @@
   - [x] https://modrinth.com/mod/vmp-fabric/version/0.2.0+beta.7.29+1.19.2
   - [x] https://www.curseforge.com/minecraft/mc-mods/fast-furnace-for-fabric/files/4072397
   - [x] https://modrinth.com/mod/raised/version/Fabric-1.19.2-1.2.2
-  - [x] https://modrinth.com/mod/item-model-fix/version/1.0.3+1.19
   - [x] https://modrinth.com/mod/language-reload/version/1.5.6+1.19.2
   - [x] https://modrinth.com/mod/inventory-sorting/version/1.8.10-1.19
   - [x] https://www.curseforge.com/minecraft/mc-mods/carpet-extra/files/4066596
   - [x] https://modrinth.com/mod/carpet-tis-addition/version/mc1.19.2-v1.44.0-bp.2
   - [x] https://modrinth.com/mod/keepheadnames/version/1.5.1-fabric-1.18
   - [x] https://modrinth.com/mod/server-chat-history/version/1.4.0
-  - [x] https://modrinth.com/mod/immersivecursedness/version/1.4.7
   - [x] https://www.curseforge.com/minecraft/mc-mods/smooth-scrolling-everywhere-fabric/files/3832027
   - [x] https://modrinth.com/mod/extrasounds/version/2.3.1+1.19.2-1.19.1
   - [x] https://modrinth.com/plugin/minimotd/version/2.0.9
+  - [x] https://modrinth.com/mod/iceberg/version/1.0.46
+  - [x] https://modrinth.com/mod/item-borders/version/hSiRURur
+  - [x] https://modrinth.com/mod/explosive-enhancement/version/1.0.1-1.19.2
+  - [x] https://modrinth.com/mod/audio-engine-tweaks/version/1.2.3-post
+
+# known problems
+- remove betterf3 [x]
+- remove dcch [x]
+- remove styled chat
+- remove minimap [x]
+- remove immersive cursedness [x]
+- remove better beds [x]
+- remove item model fix [x]
+- some problems with carpet
+- fix progblems with phantom sounds
+- remove graves. i think it to imbalance [x]
+- disable item despawning after death [x]
+- configure golfiv
+- configure minimotd
+- configure tab (idk how to correctly name player list)
+- draw icon or copy it from resourcepack
