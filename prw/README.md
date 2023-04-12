@@ -44,7 +44,7 @@
   - [x] https://modrinth.com/mod/playeranimator/version/1.0.2-fabric
   - [x] https://modrinth.com/mod/puzzle/version/1.4.2-1.19.2
   - [x] https://modrinth.com/mod/animatica/version/0.5+1.19
-  - [x] https://modrinth.com/mod/yacl/version/2.2.0-for-1.19.2
+  - [x] https://modrinth.com/mod/yacl/version/1.7.1
   - [x] https://modrinth.com/mod/visuality/version/0.5.6
   - [x] https://modrinth.com/mod/quilt-loading-screen/version/4.0.0+1.19
   - [x] https://modrinth.com/mod/immersive-structures/version/2.0.7
@@ -72,19 +72,17 @@
   - [x] https://modrinth.com/mod/timeoutout/version/1.0.3
   - [x] https://modrinth.com/mod/wither-cage-fix/version/1.0.16+MC1.19-1.19.4
   - [x] https://modrinth.com/mod/fabrication/version/3.2.4+1.19
-  - [x] https://modrinth.com/mod/styled-chat/version/2.0.3+1.19.2
   - [x] https://modrinth.com/mod/alternate-current/version/mc1.19-1.5.0
   - [x] https://modrinth.com/mod/servercore/version/1.3.3-1.19.2
-  - [x] https://modrinth.com/mod/dimthread/version/1.2.7
   - [x] https://modrinth.com/mod/golfiv/version/0.6.0
   - [x] https://modrinth.com/mod/cull-less-leaves/version/1.0.6
   - [x] https://modrinth.com/mod/cullclouds/version/0.1.0
-  - [x] https://www.curseforge.com/minecraft/mc-mods/satin-api/files/3864173
-  - [x] https://www.curseforge.com/minecraft/mc-mods/effective/files/4092345
   - [x] https://modrinth.com/mod/auditory/version/0.0.4
   - [x] https://modrinth.com/mod/blur-fabric/version/2.6.0
   - [x] https://modrinth.com/mod/easyauth/version/1.19.1-3.0.0-8
   - [x] https://modrinth.com/datapack/loyal-items/version/1.0.0+mod
+  - [x] https://modrinth.com/mod/better-beds/version/1.2.0
+  - [x] https://modrinth.com/plugin/raknetify/version/0.1.0+alpha.5.69
 - fabric
   - [x] https://modrinth.com/mod/3dskinlayers/version/1.5.2-fabric-1.19
   - [x] https://modrinth.com/mod/ambientsounds/version/5.2.13
@@ -152,15 +150,16 @@
   - [x] https://modrinth.com/mod/iceberg/version/1.0.46
   - [x] https://modrinth.com/mod/item-borders/version/hSiRURur
   - [x] https://modrinth.com/mod/explosive-enhancement/version/1.0.1-1.19.2
-  - [x] https://modrinth.com/mod/audio-engine-tweaks/version/1.2.3-post
+  - [x] https://modrinth.com/mod/better-biome-blend/version/1.19.0-1.3.6-fabric
+  - [x] https://modrinth.com/mod/noxesium/version/0.1.4
+  - [x] https://modrinth.com/mod/entity-collision-fps-fix/version/2.0.0.0
 
 # known problems
 - remove betterf3 [x]
 - remove dcch [x]
-- remove styled chat
+- remove styled chat [x]
 - remove minimap [x]
 - remove immersive cursedness [x]
-- remove better beds [x]
 - remove item model fix [x]
 - some problems with carpet
 - fix progblems with phantom sounds
